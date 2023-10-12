@@ -1,8 +1,8 @@
 # Cody Kietzman README Generator
   ## Badge
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This project will create a professional README.md file based on the data from user input
+  This project creates a professional README.md based on the data from user input.
  
   ## Table of Contents
   * [Description](#description)
@@ -26,7 +26,7 @@
 
   ## License
   
-  The Unlicense
+  MIT License
 
 
   ## Contributing

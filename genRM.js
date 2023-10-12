@@ -23,15 +23,6 @@ function genRM(res){
 
  
 
-
-
-
-
-
-
-
-
-
   return `# ${res.title}
   ## Badge
   ${url}
