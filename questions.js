@@ -32,7 +32,7 @@ const questions = [
     {
         type: 'list',
         message: 'Plese choose your license type:',
-        choices: ["MIT License","Apache License 2.0","The Unlicense"],
+        choices: ["MIT License","Apache License 2.0","The Unlicense","N/A"],
         name: 'license',
       },
       {
@@ -47,4 +47,6 @@ const questions = [
     },
   ]
   
+
+
   module.exports = questions
