@@ -1,31 +1,31 @@
 const questions = [
     {
-      type: 'input',
+      type: 'text',
       message: 'What is the title of your project',
       name: 'title',
     },
     {
-        type: 'input',
+        type: 'text',
         message: 'Please describe your project:',
         name: 'description',
     },
     {
-        type: 'input',
+        type: 'text',
         message: 'Please describe your the installation instructions:',
         name: 'install',
     },
     {
-        type: 'input',
+        type: 'text',
         message: 'Please describe your usage information:',
         name: 'usage',
     },
     {
-        type: 'input',
+        type: 'text',
         message: 'Please describe your contribution guidelines:',
         name: 'guidelines',
     },
     {
-        type: 'input',
+        type: 'text',
         message: 'What are your test instructions?',
         name: 'test',
     },
