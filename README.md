@@ -1,8 +1,8 @@
 # Cody Kietzman README Generator
   ## Badge
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   ## Description
-  My README generator will create a professional README based on user input 
+  This project will create a professional README.md file based on the data from user input
  
   ## Table of Contents
   * [Description](#description)
@@ -22,11 +22,11 @@
   
   ## Usage
   
-  N/A
+  NA
 
   ## License
   
-  Apache License 2.0
+  The Unlicense
 
 
   ## Contributing
